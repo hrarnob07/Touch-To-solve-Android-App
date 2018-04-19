@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ActivityHandel</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_gamelabel">gamelabel</string>
+    <string name="title_activity_play1">PLAY1</string>
+    <string name="title_activity_play2">play2</string>
+    <string name="title_activity_play3">play3</string>
+    <string name="title_activity_play4">Play4</string>
+    <string name="title_activity_lose">Lose</string>
+
+</resources>
